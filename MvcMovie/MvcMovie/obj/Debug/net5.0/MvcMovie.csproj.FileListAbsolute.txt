@@ -9,7 +9,6 @@ C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\bin\D
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
-C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
