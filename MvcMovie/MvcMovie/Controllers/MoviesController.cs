@@ -20,9 +20,20 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Movie.ToListAsync());
+            //return View(await _context.Movie.ToListAsync());
+
+            var movies = from m in _context.Movie
+                         select m;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                movies = movies.Where(s => s.Title.Contains(searchString));
+            }
+
+            return View(await movies.ToListAsync());
+
         }
 
         // GET: Movies/Details/5
@@ -49,6 +60,13 @@ namespace MvcMovie.Controllers
             return View();
         }
 
+
+        public string GetHour()
+        {
+            DateTime dateTime = new DateTime();
+            return $"{dateTime.Hour.ToString("00")}:{dateTime.Minute.ToString("00")}";
+        }
+
         // POST: Movies/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -58,6 +76,9 @@ namespace MvcMovie.Controllers
         {
             if (ModelState.IsValid)
             {
+                
+                DateTime date = new DateTime(movie.ReleaseDate.Year, movie.ReleaseDate.Month, movie.ReleaseDate.Day, DateTime.Now.Hour, DateTime.Now.Minute, DateTime.Now.Second);
+                movie.ReleaseDate = date;
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
