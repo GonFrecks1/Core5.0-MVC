@@ -172,3 +172,14 @@ C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\D
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Man\Documents\CURSOS\MVC\projects\MvcMovie-Tuto\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
+C:\Users\Man\Documents\CURSOS\MVC\projects\ClonarReposGitHub\Core5.0-MVC\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb

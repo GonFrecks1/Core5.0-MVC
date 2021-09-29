@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\MvcMovie-Tuto\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\ClonarReposGitHub\\Core5.0-MVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\MvcMovie-Tuto\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\ClonarReposGitHub\\Core5.0-MVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\MvcMovie-Tuto\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\ClonarReposGitHub\\Core5.0-MVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\MvcMovie-Tuto\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\ClonarReposGitHub\\Core5.0-MVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Man\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\MvcMovie-Tuto\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\Man\\Documents\\CURSOS\\MVC\\projects\\ClonarReposGitHub\\Core5.0-MVC\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Man\\AppData\\Roaming\\NuGet\\NuGet.Config",
